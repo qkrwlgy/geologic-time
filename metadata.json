@@ -1,0 +1,6 @@
+{
+  "name": "지질 시대와 5대 대멸종 - 고등학교 통합과학2",
+  "description": "선캄브리아 시대부터 신생대까지의 수치 연대, 표준·시상 화석, 기후 변화, 5대 대멸종 원인과 멸종 비율을 인터랙티브하게 비교하고 암기하는 고등학교 통합과학2 시각화 학습 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
