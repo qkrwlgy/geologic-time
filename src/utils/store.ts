@@ -9,7 +9,7 @@
 
 const STORE_URL =
   'https://script.google.com/macros/s/AKfycbyftynT0m5y9lrkdt_VvRZfib9wsbZslH-7-6JMhqyDy7Sc16BmEM318mvHSG_DSicBtw/exec';
-const APP = 'geologic time';
+const APP = 'geologic-time';
 
 export function getToken(): string | null {
   try {
